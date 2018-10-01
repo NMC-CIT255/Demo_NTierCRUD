@@ -21,7 +21,6 @@ namespace Demo_NTierCRUD
         private const int DISPLAY_HORIZONTAL_MARGIN = ViewSettings.DISPLAY_HORIZONTAL_MARGIN;
         private const int DISPALY_VERITCAL_MARGIN = ViewSettings.DISPALY_VERITCAL_MARGIN;
 
-        //private List<Character> _characters;
         bool _runApp = true;
 
         //
